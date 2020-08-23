@@ -1,0 +1,11 @@
+C:\Users\P\Desktop\CSLogic\CSLogic\bin\Debug\netcoreapp3.0\CSLogic.exe
+C:\Users\P\Desktop\CSLogic\CSLogic\bin\Debug\netcoreapp3.0\CSLogic.deps.json
+C:\Users\P\Desktop\CSLogic\CSLogic\bin\Debug\netcoreapp3.0\CSLogic.runtimeconfig.json
+C:\Users\P\Desktop\CSLogic\CSLogic\bin\Debug\netcoreapp3.0\CSLogic.runtimeconfig.dev.json
+C:\Users\P\Desktop\CSLogic\CSLogic\bin\Debug\netcoreapp3.0\CSLogic.dll
+C:\Users\P\Desktop\CSLogic\CSLogic\bin\Debug\netcoreapp3.0\CSLogic.pdb
+C:\Users\P\Desktop\CSLogic\CSLogic\obj\Debug\netcoreapp3.0\CSLogic.csprojAssemblyReference.cache
+C:\Users\P\Desktop\CSLogic\CSLogic\obj\Debug\netcoreapp3.0\CSLogic.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\CSLogic\CSLogic\obj\Debug\netcoreapp3.0\CSLogic.AssemblyInfo.cs
+C:\Users\P\Desktop\CSLogic\CSLogic\obj\Debug\netcoreapp3.0\CSLogic.dll
+C:\Users\P\Desktop\CSLogic\CSLogic\obj\Debug\netcoreapp3.0\CSLogic.pdb
